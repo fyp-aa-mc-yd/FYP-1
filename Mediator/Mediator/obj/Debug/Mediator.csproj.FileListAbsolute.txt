@@ -1,0 +1,8 @@
+C:\Users\Elia\source\repos\Mediator\Mediator\bin\Debug\Mediator.exe.config
+C:\Users\Elia\source\repos\Mediator\Mediator\bin\Debug\Mediator.exe
+C:\Users\Elia\source\repos\Mediator\Mediator\bin\Debug\Mediator.pdb
+C:\Users\Elia\source\repos\Mediator\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Users\Elia\source\repos\Mediator\Mediator\obj\Debug\Mediator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elia\source\repos\Mediator\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Users\Elia\source\repos\Mediator\Mediator\obj\Debug\Mediator.exe
+C:\Users\Elia\source\repos\Mediator\Mediator\obj\Debug\Mediator.pdb
